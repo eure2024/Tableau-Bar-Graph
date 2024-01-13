@@ -1,4 +1,4 @@
 # Tableau-Bar-Graph
 
-I created this graph for Maimonides Hospital and used data from the The Patient survey (HCAHPS) – Hospital survey available on Data.CMS.gov. I included a short PowerPoint presentation that provides additional context for the graph which shows patient satisfaction survey results. 
+I created this chart for Maimonides Hospital by importing data from the The Patient Survey (HCAHPS) – Hospital Survey available on Data.CMS.gov. I included a short PowerPoint presentation that provides additional context for the chart which shows patient satisfaction survey results for Maimonides Hospital and New York State Hospitals. 
 
